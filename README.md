@@ -11,4 +11,4 @@
        You can remove the hand visual and continue with controllers
   2. Change device configuration in settings for particular VR device
 
-#### This project uses all the latest version of unity packages till (26-6-2024)
+#### This project uses all the latest version of unity packages(26-6-2024)
