@@ -2,17 +2,10 @@
     "name": "Unity.XR.Interaction.Toolkit.Samples.StarterAssets",
     "rootNamespace": "",
     "references": [
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.asmdef
         "Unity.InputSystem",
         "Unity.Mathematics",
         "Unity.XR.CoreUtils",
         "Unity.XR.Interaction.Toolkit"
-=======
-        "GUID:75469ad4d38634e559750d17036d5f7c",
-        "GUID:dc960734dc080426fa6612f1c5fe95f3",
-        "GUID:fe685ec1767f73d42b749ea8045bfe43",
-        "GUID:d8b63aba1907145bea998dd612889d6b"
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.asmdef
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

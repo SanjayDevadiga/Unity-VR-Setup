@@ -60,7 +60,6 @@
                     "initialStateCheck": true
                 },
                 {
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "name": "Eye Gaze Is Tracked",
                     "type": "Button",
                     "id": "ea26ba43-844b-4585-817a-2f124b571813",
@@ -70,8 +69,6 @@
                     "initialStateCheck": true
                 },
                 {
-=======
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "name": "Eye Gaze Tracking State",
                     "type": "Value",
                     "id": "73053154-2fbc-4d78-9cac-000282b64f79",
@@ -88,7 +85,6 @@
                     "path": "<XRHMD>/centerEyePosition",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
                     "action": "Position",
                     "isComposite": false,
@@ -101,9 +97,6 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-=======
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Position",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -114,7 +107,6 @@
                     "path": "<XRHMD>/centerEyeRotation",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
                     "action": "Rotation",
                     "isComposite": false,
@@ -127,9 +119,6 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-=======
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Rotation",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -151,11 +140,7 @@
                     "path": "<EyeGaze>/pose/rotation",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
-=======
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Eye Gaze Rotation",
                     "isComposite": false,
                     "isPartOfComposite": true
@@ -166,11 +151,7 @@
                     "path": "<XRHMD>/centerEyeRotation",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
-=======
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Eye Gaze Rotation",
                     "isComposite": false,
                     "isPartOfComposite": true
@@ -181,11 +162,7 @@
                     "path": "",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
-=======
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Eye Gaze Rotation",
                     "isComposite": false,
                     "isPartOfComposite": true
@@ -207,11 +184,7 @@
                     "path": "<EyeGaze>/pose/position",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
-=======
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Eye Gaze Position",
                     "isComposite": false,
                     "isPartOfComposite": true
@@ -222,11 +195,7 @@
                     "path": "<XRHMD>/centerEyePosition",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
-=======
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Eye Gaze Position",
                     "isComposite": false,
                     "isPartOfComposite": true
@@ -237,11 +206,7 @@
                     "path": "",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
-=======
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Eye Gaze Position",
                     "isComposite": false,
                     "isPartOfComposite": true
@@ -263,11 +228,7 @@
                     "path": "<EyeGaze>/pose/trackingState",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
-=======
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Eye Gaze Tracking State",
                     "isComposite": false,
                     "isPartOfComposite": true
@@ -278,11 +239,7 @@
                     "path": "<XRHMD>/trackingState",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
-=======
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Eye Gaze Tracking State",
                     "isComposite": false,
                     "isPartOfComposite": true
@@ -293,11 +250,7 @@
                     "path": "",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
-=======
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Eye Gaze Tracking State",
                     "isComposite": false,
                     "isPartOfComposite": true
@@ -308,11 +261,7 @@
                     "path": "<XRHMD>/trackingState",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
-=======
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Tracking State",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -323,7 +272,6 @@
                     "path": "<XRHMD>/isTracked",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
                     "action": "Is Tracked",
                     "isComposite": false,
@@ -372,21 +320,11 @@
                     "action": "Eye Gaze Is Tracked",
                     "isComposite": false,
                     "isPartOfComposite": true
-=======
-                    "groups": "Generic XR Controller",
-                    "action": "Is Tracked",
-                    "isComposite": false,
-                    "isPartOfComposite": false
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                 }
             ]
         },
         {
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
             "name": "XRI Left",
-=======
-            "name": "XRI LeftHand",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
             "id": "5fe596f9-1b7b-49b7-80a7-3b5195caf74d",
             "actions": [
                 {
@@ -453,11 +391,7 @@
                     "initialStateCheck": true
                 },
                 {
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "name": "Meta Aim Flags",
-=======
-                    "name": "Aim Flags",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "type": "Value",
                     "id": "f98e71db-49b4-4882-8991-a0e386733e87",
                     "expectedControlType": "Integer",
@@ -491,7 +425,6 @@
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": true
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                 },
                 {
                     "name": "Grip Position",
@@ -519,8 +452,6 @@
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": true
-=======
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                 }
             ],
             "bindings": [
@@ -541,11 +472,7 @@
                     "path": "<XRController>{LeftHand}/pointerRotation",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
-=======
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Rotation",
                     "isComposite": false,
                     "isPartOfComposite": true
@@ -556,11 +483,7 @@
                     "path": "<XRController>{LeftHand}/deviceRotation",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
-=======
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Rotation",
                     "isComposite": false,
                     "isPartOfComposite": true
@@ -571,11 +494,7 @@
                     "path": "<XRHandDevice>{LeftHand}/deviceRotation",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
-=======
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Rotation",
                     "isComposite": false,
                     "isPartOfComposite": true
@@ -597,11 +516,7 @@
                     "path": "<XRController>{LeftHand}/pointerPosition",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
-=======
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Position",
                     "isComposite": false,
                     "isPartOfComposite": true
@@ -612,11 +527,7 @@
                     "path": "<XRController>{LeftHand}/devicePosition",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
-=======
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Position",
                     "isComposite": false,
                     "isPartOfComposite": true
@@ -627,11 +538,7 @@
                     "path": "<XRHandDevice>{LeftHand}/devicePosition",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
-=======
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Position",
                     "isComposite": false,
                     "isPartOfComposite": true
@@ -642,11 +549,7 @@
                     "path": "<XRController>{LeftHand}/*",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
-=======
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Haptic Device",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -657,11 +560,7 @@
                     "path": "<XRController>{LeftHand}/trackingState",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
-=======
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Tracking State",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -672,11 +571,7 @@
                     "path": "<XRHandDevice>{LeftHand}/trackingState",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
-=======
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Tracking State",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -687,7 +582,6 @@
                     "path": "<MetaAimHand>{LeftHand}/devicePosition",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
                     "action": "Aim Position",
                     "isComposite": false,
@@ -722,9 +616,6 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-=======
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Aim Position",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -735,18 +626,13 @@
                     "path": "<MetaAimHand>{LeftHand}/deviceRotation",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
-=======
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Aim Rotation",
                     "isComposite": false,
                     "isPartOfComposite": false
                 },
                 {
                     "name": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "id": "c3ff2c3c-d1ef-40c9-8777-72ee03df3ff3",
                     "path": "<HandInteraction>{LeftHand}/pointer/rotation",
                     "interactions": "",
@@ -909,38 +795,6 @@
                     "action": "Poke Rotation",
                     "isComposite": false,
                     "isPartOfComposite": true
-=======
-                    "id": "f7a37505-52bd-4a96-8f88-c761a62a71e7",
-                    "path": "<XRHandDevice>{LeftHand}/pinchPosition",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "Generic XR Controller",
-                    "action": "Pinch Position",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "017a01a2-6e1a-4b39-9b5e-e115d5d2dd6a",
-                    "path": "<XRHandDevice>{LeftHand}/pokePosition",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "Generic XR Controller",
-                    "action": "Poke Position",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "3ab4651e-837c-4352-9055-6671517f1917",
-                    "path": "<XRHandDevice>{LeftHand}/pokeRotation",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "Generic XR Controller",
-                    "action": "Poke Rotation",
-                    "isComposite": false,
-                    "isPartOfComposite": false
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                 },
                 {
                     "name": "",
@@ -948,11 +802,7 @@
                     "path": "<XRController>{LeftHand}/isTracked",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
-=======
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Is Tracked",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -963,11 +813,7 @@
                     "path": "<XRHandDevice>{LeftHand}/isTracked",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
-=======
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Is Tracked",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -978,7 +824,6 @@
                     "path": "<MetaAimHand>{LeftHand}/aimFlags",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
                     "action": "Meta Aim Flags",
                     "isComposite": false,
@@ -1014,32 +859,20 @@
                     "processors": "",
                     "groups": "",
                     "action": "Thumbstick",
-=======
-                    "groups": "Generic XR Controller",
-                    "action": "Aim Flags",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
             ]
         },
         {
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
             "name": "XRI Left Interaction",
-=======
-            "name": "XRI LeftHand Interaction",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
             "id": "7a5e7537-cc30-4eb1-a544-6946baa8f3eb",
             "actions": [
                 {
                     "name": "Select",
                     "type": "Button",
                     "id": "33754c03-48ec-46ef-9bc6-22ed6bfdd8e8",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "expectedControlType": "",
-=======
-                    "expectedControlType": "Button",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
@@ -1075,11 +908,7 @@
                     "name": "UI Press",
                     "type": "Button",
                     "id": "7e1eced7-c774-4fe5-be8f-d8711f646d9e",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "expectedControlType": "",
-=======
-                    "expectedControlType": "Button",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
@@ -1094,7 +923,6 @@
                     "initialStateCheck": true
                 },
                 {
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "name": "UI Scroll",
                     "type": "Value",
                     "id": "a5372626-7022-4ba7-b152-6f26318fd8a8",
@@ -1114,9 +942,6 @@
                 },
                 {
                     "name": "Rotate Manipulation",
-=======
-                    "name": "Rotate Anchor",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "type": "Value",
                     "id": "21b75b25-12ad-410f-b4f8-a7745b7aca27",
                     "expectedControlType": "Vector2",
@@ -1125,7 +950,6 @@
                     "initialStateCheck": true
                 },
                 {
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "name": "Directional Manipulation",
                     "type": "Value",
                     "id": "93bd97c5-fd23-4853-8045-1b12324aa24e",
@@ -1147,11 +971,6 @@
                     "name": "Scale Over Time",
                     "type": "Value",
                     "id": "2257500c-1efb-4f69-a54d-ed5db2708616",
-=======
-                    "name": "Translate Anchor",
-                    "type": "Value",
-                    "id": "bfa204c7-3c92-4193-bad1-39eb71920042",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "expectedControlType": "Vector2",
                     "processors": "",
                     "interactions": "",
@@ -1162,17 +981,10 @@
                 {
                     "name": "",
                     "id": "71a4d23f-3e9a-4513-923b-ba388c5e84bf",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "path": "<XRController>{LeftHand}/{GripButton}",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-=======
-                    "path": "<XRController>{LeftHand}/gripPressed",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Select",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -1183,7 +995,6 @@
                     "path": "<MetaAimHand>{LeftHand}/indexPressed",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
                     "action": "Select",
                     "isComposite": false,
@@ -1218,9 +1029,6 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-=======
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Select",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -1228,17 +1036,10 @@
                 {
                     "name": "",
                     "id": "49a23327-a116-48c0-8af9-0d2c50c15a88",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "path": "<XRController>{LeftHand}/{Grip}",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-=======
-                    "path": "<XRController>{LeftHand}/grip",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Select Value",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -1249,7 +1050,6 @@
                     "path": "<MetaAimHand>{LeftHand}/pinchStrengthIndex",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
                     "action": "Select Value",
                     "isComposite": false,
@@ -1284,9 +1084,6 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-=======
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Select Value",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -1294,17 +1091,10 @@
                 {
                     "name": "",
                     "id": "487f4f2e-9e9b-49aa-b0f2-4037a24624f5",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "path": "<XRController>{LeftHand}/{TriggerButton}",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-=======
-                    "path": "<XRController>{LeftHand}/triggerPressed",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Activate",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -1312,17 +1102,10 @@
                 {
                     "name": "",
                     "id": "3b8b1b59-2fdc-4998-8259-50341075d9a2",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "path": "<XRController>{LeftHand}/{Trigger}",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-=======
-                    "path": "<XRController>{LeftHand}/trigger",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Activate Value",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -1330,17 +1113,10 @@
                 {
                     "name": "",
                     "id": "b34c79c1-ab5e-4851-87ac-abc43705eae0",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "path": "<XRController>{LeftHand}/{TriggerButton}",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-=======
-                    "path": "<XRController>{LeftHand}/triggerPressed",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "UI Press",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -1351,7 +1127,6 @@
                     "path": "<MetaAimHand>{LeftHand}/indexPressed",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
                     "action": "UI Press",
                     "isComposite": false,
@@ -1375,9 +1150,6 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-=======
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "UI Press",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -1385,17 +1157,10 @@
                 {
                     "name": "",
                     "id": "71d94579-1bf4-4034-ab9e-e7166842128f",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "path": "<XRController>{LeftHand}/{Trigger}",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-=======
-                    "path": "<XRController>{LeftHand}/trigger",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "UI Press Value",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -1406,7 +1171,6 @@
                     "path": "<MetaAimHand>{LeftHand}/pinchStrengthIndex",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
                     "action": "UI Press Value",
                     "isComposite": false,
@@ -1430,9 +1194,6 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-=======
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "UI Press Value",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -1440,7 +1201,6 @@
                 {
                     "name": "",
                     "id": "8ed313a6-c966-4669-8a62-4bb2319d485b",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "path": "<XRController>{LeftHand}/{Primary2DAxis}",
                     "interactions": "",
                     "processors": "ScaleVector2(y=0),StickDeadzone",
@@ -1490,60 +1250,28 @@
                     "processors": "",
                     "groups": "",
                     "action": "Directional Manipulation",
-=======
-                    "path": "<XRController>{LeftHand}/Primary2DAxis",
-                    "interactions": "",
-                    "processors": "ScaleVector2(y=0),StickDeadzone",
-                    "groups": "Generic XR Controller",
-                    "action": "Rotate Anchor",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "isComposite": false,
                     "isPartOfComposite": false
                 },
                 {
                     "name": "",
                     "id": "370f21e3-a80b-4b07-990b-299c2da0929a",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "path": "<XRController>{LeftHand}/{Primary2DAxis}",
                     "interactions": "",
                     "processors": "ScaleVector2(x=0),StickDeadzone",
                     "groups": "",
                     "action": "Translate Manipulation",
-=======
-                    "path": "<XRController>{LeftHand}/Primary2DAxis",
-                    "interactions": "",
-                    "processors": "ScaleVector2(x=0),StickDeadzone",
-                    "groups": "Generic XR Controller",
-                    "action": "Translate Anchor",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
             ]
         },
         {
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
             "name": "XRI Left Locomotion",
             "id": "22336389-9fb1-4c2c-8635-0ed30db0d29e",
             "actions": [
                 {
                     "name": "Teleport Mode",
-=======
-            "name": "XRI LeftHand Locomotion",
-            "id": "22336389-9fb1-4c2c-8635-0ed30db0d29e",
-            "actions": [
-                {
-                    "name": "Teleport Select",
-                    "type": "Value",
-                    "id": "cbeaf823-3b69-4004-8ec8-13ea2ca3fc31",
-                    "expectedControlType": "Vector2",
-                    "processors": "",
-                    "interactions": "",
-                    "initialStateCheck": true
-                },
-                {
-                    "name": "Teleport Mode Activate",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "type": "Value",
                     "id": "a21db72c-4843-4839-b4d0-3ce8d287cb86",
                     "expectedControlType": "Vector2",
@@ -1561,30 +1289,18 @@
                     "initialStateCheck": false
                 },
                 {
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "name": "Turn",
                     "type": "Value",
                     "id": "9164e093-ebd4-4923-af32-1b52f31c2d66",
-=======
-                    "name": "Teleport Direction",
-                    "type": "Value",
-                    "id": "93bd97c5-fd23-4853-8045-1b12324aa24e",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "expectedControlType": "Vector2",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": true
                 },
                 {
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "name": "Snap Turn",
                     "type": "Value",
                     "id": "8c14e969-a054-4f12-840c-4e0bd85173d9",
-=======
-                    "name": "Turn",
-                    "type": "Value",
-                    "id": "9164e093-ebd4-4923-af32-1b52f31c2d66",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "expectedControlType": "Vector2",
                     "processors": "",
                     "interactions": "",
@@ -1607,66 +1323,27 @@
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
-=======
-                },
-                {
-                    "name": "Snap Turn",
-                    "type": "Value",
-                    "id": "8c14e969-a054-4f12-840c-4e0bd85173d9",
-                    "expectedControlType": "Vector2",
-                    "processors": "",
-                    "interactions": "",
-                    "initialStateCheck": true
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                 }
             ],
             "bindings": [
                 {
                     "name": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "id": "8da6ed3a-f621-49fe-8c76-1f6b7d7754d6",
                     "path": "<XRController>{LeftHand}/{Primary2DAxis}",
                     "interactions": "Sector(directions=1)",
                     "processors": "",
                     "groups": "",
                     "action": "Teleport Mode",
-=======
-                    "id": "95fa1419-ca7b-4c8a-8d15-7d46e58d82e3",
-                    "path": "<XRController>{LeftHand}/Primary2DAxis",
-                    "interactions": "Sector(directions=-1,sweepBehavior=3)",
-                    "processors": "",
-                    "groups": "Noncontinuous Move",
-                    "action": "Teleport Select",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "8da6ed3a-f621-49fe-8c76-1f6b7d7754d6",
-                    "path": "<XRController>{LeftHand}/Primary2DAxis",
-                    "interactions": "Sector(directions=1)",
-                    "processors": "",
-                    "groups": "Noncontinuous Move",
-                    "action": "Teleport Mode Activate",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "isComposite": false,
                     "isPartOfComposite": false
                 },
                 {
                     "name": "",
                     "id": "b8aebee7-fa03-43d4-bfb7-77a3f87452cc",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "path": "<XRController>{LeftHand}/{GripButton}",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-=======
-                    "path": "<XRController>{LeftHand}/gripPressed",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Teleport Mode Cancel",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -1674,17 +1351,10 @@
                 {
                     "name": "",
                     "id": "99cb7ad1-51ec-4611-af68-92a85f2c17d6",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "path": "<XRController>{LeftHand}/{Primary2DAxis}",
                     "interactions": "Sector(directions=12,sweepBehavior=1),Sector(directions=2,sweepBehavior=2)",
                     "processors": "",
                     "groups": "",
-=======
-                    "path": "<XRController>{LeftHand}/Primary2DAxis",
-                    "interactions": "Sector(directions=12,sweepBehavior=1),Sector(directions=2,sweepBehavior=2)",
-                    "processors": "",
-                    "groups": "Noncontinuous Move",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Turn",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -1692,47 +1362,21 @@
                 {
                     "name": "",
                     "id": "8e383b1a-270f-4c20-819b-89a59cffb498",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "path": "<XRController>{LeftHand}/{Primary2DAxis}",
                     "interactions": "",
                     "processors": "StickDeadzone",
                     "groups": "",
-=======
-                    "path": "<XRController>{LeftHand}/Primary2DAxis",
-                    "interactions": "",
-                    "processors": "StickDeadzone",
-                    "groups": "Continuous Move",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Move",
                     "isComposite": false,
                     "isPartOfComposite": false
                 },
                 {
                     "name": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "id": "9e2fa814-8cbd-4c65-a60d-a1503f30ffd8",
                     "path": "<XRController>{LeftHand}/{GripButton}",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-=======
-                    "id": "5fe0ed53-b4d3-4cd8-b567-397a7d1e1c6a",
-                    "path": "<XRController>{LeftHand}/primary2DAxis",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "Noncontinuous Move",
-                    "action": "Teleport Direction",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "9e2fa814-8cbd-4c65-a60d-a1503f30ffd8",
-                    "path": "<XRController>{LeftHand}/gripPressed",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Grab Move",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -1740,17 +1384,10 @@
                 {
                     "name": "",
                     "id": "a46b49d0-0754-4dac-a9a5-a822e10751f2",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "path": "<XRController>{LeftHand}/{Primary2DAxis}",
                     "interactions": "Sector(directions=12,sweepBehavior=1),Sector(directions=2,sweepBehavior=2)",
                     "processors": "",
                     "groups": "",
-=======
-                    "path": "<XRController>{LeftHand}/Primary2DAxis",
-                    "interactions": "Sector(directions=12,sweepBehavior=1),Sector(directions=2,sweepBehavior=2)",
-                    "processors": "",
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Snap Turn",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -1758,11 +1395,7 @@
             ]
         },
         {
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
             "name": "XRI Right",
-=======
-            "name": "XRI RightHand",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
             "id": "7960f8ef-2bf3-4281-aecc-4c03809d6c8c",
             "actions": [
                 {
@@ -1787,11 +1420,7 @@
                     "name": "Is Tracked",
                     "type": "Button",
                     "id": "a705ffe4-b2c8-4b78-847f-25257d4e30af",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "expectedControlType": "",
-=======
-                    "expectedControlType": "Button",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": true
@@ -1833,11 +1462,7 @@
                     "initialStateCheck": true
                 },
                 {
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "name": "Meta Aim Flags",
-=======
-                    "name": "Aim Flags",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "type": "Value",
                     "id": "93a75a21-033e-440c-9954-ff264afb2db9",
                     "expectedControlType": "Integer",
@@ -1871,7 +1496,6 @@
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": true
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                 },
                 {
                     "name": "Grip Position",
@@ -1899,8 +1523,6 @@
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": true
-=======
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                 }
             ],
             "bindings": [
@@ -1921,11 +1543,7 @@
                     "path": "<XRController>{RightHand}/pointerRotation",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
-=======
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Rotation",
                     "isComposite": false,
                     "isPartOfComposite": true
@@ -1936,11 +1554,7 @@
                     "path": "<XRController>{RightHand}/deviceRotation",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
-=======
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Rotation",
                     "isComposite": false,
                     "isPartOfComposite": true
@@ -1951,11 +1565,7 @@
                     "path": "<XRHandDevice>{RightHand}/deviceRotation",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
-=======
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Rotation",
                     "isComposite": false,
                     "isPartOfComposite": true
@@ -1977,11 +1587,7 @@
                     "path": "<XRController>{RightHand}/pointerPosition",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
-=======
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Position",
                     "isComposite": false,
                     "isPartOfComposite": true
@@ -1992,11 +1598,7 @@
                     "path": "<XRController>{RightHand}/devicePosition",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
-=======
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Position",
                     "isComposite": false,
                     "isPartOfComposite": true
@@ -2007,11 +1609,7 @@
                     "path": "<XRHandDevice>{RightHand}/devicePosition",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
-=======
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Position",
                     "isComposite": false,
                     "isPartOfComposite": true
@@ -2022,11 +1620,7 @@
                     "path": "<XRController>{RightHand}/*",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
-=======
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Haptic Device",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -2037,11 +1631,7 @@
                     "path": "<XRController>{RightHand}/trackingState",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
-=======
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Tracking State",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -2052,11 +1642,7 @@
                     "path": "<XRHandDevice>{RightHand}/trackingState",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
-=======
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Tracking State",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -2067,7 +1653,6 @@
                     "path": "<MetaAimHand>{RightHand}/devicePosition",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
                     "action": "Aim Position",
                     "isComposite": false,
@@ -2102,9 +1687,6 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-=======
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Aim Position",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -2115,18 +1697,13 @@
                     "path": "<MetaAimHand>{RightHand}/deviceRotation",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
-=======
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Aim Rotation",
                     "isComposite": false,
                     "isPartOfComposite": false
                 },
                 {
                     "name": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "id": "256fbef4-95a6-4127-ac3e-6a259b640666",
                     "path": "<HandInteraction>{RightHand}/pointer/rotation",
                     "interactions": "",
@@ -2289,38 +1866,6 @@
                     "action": "Poke Rotation",
                     "isComposite": false,
                     "isPartOfComposite": true
-=======
-                    "id": "21413a94-0048-4112-b433-a770f183f592",
-                    "path": "<XRHandDevice>{RightHand}/pinchPosition",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "Generic XR Controller",
-                    "action": "Pinch Position",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "5e847fad-7431-4e48-883a-d489fca4ce0d",
-                    "path": "<XRHandDevice>{RightHand}/pokePosition",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "Generic XR Controller",
-                    "action": "Poke Position",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "99b19b88-e2ad-4670-91ee-1f55f6c34a69",
-                    "path": "<XRHandDevice>{RightHand}/pokeRotation",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "Generic XR Controller",
-                    "action": "Poke Rotation",
-                    "isComposite": false,
-                    "isPartOfComposite": false
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                 },
                 {
                     "name": "",
@@ -2328,11 +1873,7 @@
                     "path": "<XRController>{RightHand}/isTracked",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
-=======
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Is Tracked",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -2343,11 +1884,7 @@
                     "path": "<XRHandDevice>{RightHand}/isTracked",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
-=======
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Is Tracked",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -2358,7 +1895,6 @@
                     "path": "<MetaAimHand>{RightHand}/aimFlags",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
                     "action": "Meta Aim Flags",
                     "isComposite": false,
@@ -2394,32 +1930,20 @@
                     "processors": "",
                     "groups": "",
                     "action": "Thumbstick",
-=======
-                    "groups": "Generic XR Controller",
-                    "action": "Aim Flags",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
             ]
         },
         {
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
             "name": "XRI Right Interaction",
-=======
-            "name": "XRI RightHand Interaction",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
             "id": "461bce25-7762-40c5-b639-f190649be6d6",
             "actions": [
                 {
                     "name": "Select",
                     "type": "Button",
                     "id": "ac96c10b-c955-4a46-8e67-bf16bc069b53",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "expectedControlType": "",
-=======
-                    "expectedControlType": "Button",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
@@ -2455,11 +1979,7 @@
                     "name": "UI Press",
                     "type": "Button",
                     "id": "65174b45-c2ee-4f90-93bb-fb4084eaaab3",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "expectedControlType": "",
-=======
-                    "expectedControlType": "Button",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
@@ -2474,7 +1994,6 @@
                     "initialStateCheck": true
                 },
                 {
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "name": "UI Scroll",
                     "type": "Value",
                     "id": "c283b939-751f-426e-8462-142a529993e3",
@@ -2494,9 +2013,6 @@
                 },
                 {
                     "name": "Rotate Manipulation",
-=======
-                    "name": "Rotate Anchor",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "type": "Value",
                     "id": "9b5d8312-f609-4895-b70f-81a722b2ae11",
                     "expectedControlType": "Vector2",
@@ -2505,7 +2021,6 @@
                     "initialStateCheck": true
                 },
                 {
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "name": "Directional Manipulation",
                     "type": "Value",
                     "id": "b950a329-6492-4e29-b563-afc726f81e95",
@@ -2527,11 +2042,6 @@
                     "name": "Scale Over Time",
                     "type": "Value",
                     "id": "19a21f59-bd21-4f77-b29d-4fda26ef6769",
-=======
-                    "name": "Translate Anchor",
-                    "type": "Value",
-                    "id": "6f7cf253-7062-443b-b10f-2be48a33f027",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "expectedControlType": "Vector2",
                     "processors": "",
                     "interactions": "",
@@ -2542,17 +2052,10 @@
                 {
                     "name": "",
                     "id": "1ce80054-410d-4112-a332-50faa7fb4f23",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "path": "<XRController>{RightHand}/{GripButton}",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-=======
-                    "path": "<XRController>{RightHand}/gripPressed",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Select",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -2563,7 +2066,6 @@
                     "path": "<MetaAimHand>{RightHand}/indexPressed",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
                     "action": "Select",
                     "isComposite": false,
@@ -2598,9 +2100,6 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-=======
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Select",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -2608,17 +2107,10 @@
                 {
                     "name": "",
                     "id": "dd433817-216c-46b9-8dd3-f3a4ea1767b9",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "path": "<XRController>{RightHand}/{Grip}",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-=======
-                    "path": "<XRController>{RightHand}/grip",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Select Value",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -2629,7 +2121,6 @@
                     "path": "<MetaAimHand>{RightHand}/pinchStrengthIndex",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
                     "action": "Select Value",
                     "isComposite": false,
@@ -2664,9 +2155,6 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-=======
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Select Value",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -2674,17 +2162,10 @@
                 {
                     "name": "",
                     "id": "fa59aed1-ae0b-4074-a58c-294b85f46228",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "path": "<XRController>{RightHand}/{TriggerButton}",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-=======
-                    "path": "<XRController>{RightHand}/triggerPressed",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Activate",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -2692,17 +2173,10 @@
                 {
                     "name": "",
                     "id": "150f414f-61bf-47b1-b4f8-f772a2a40565",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "path": "<XRController>{RightHand}/{Trigger}",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-=======
-                    "path": "<XRController>{RightHand}/trigger",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Activate Value",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -2710,17 +2184,10 @@
                 {
                     "name": "",
                     "id": "92bb5b8f-bf48-4dab-af05-50a865773895",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "path": "<XRController>{RightHand}/{TriggerButton}",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-=======
-                    "path": "<XRController>{RightHand}/triggerPressed",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "UI Press",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -2731,7 +2198,6 @@
                     "path": "<MetaAimHand>{RightHand}/indexPressed",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
                     "action": "UI Press",
                     "isComposite": false,
@@ -2755,9 +2221,6 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-=======
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "UI Press",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -2765,17 +2228,10 @@
                 {
                     "name": "",
                     "id": "5b4ef08d-9ddd-4f0a-8539-d1114d14d143",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "path": "<XRController>{RightHand}/{Trigger}",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-=======
-                    "path": "<XRController>{RightHand}/trigger",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "UI Press Value",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -2786,7 +2242,6 @@
                     "path": "<MetaAimHand>{RightHand}/pinchStrengthIndex",
                     "interactions": "",
                     "processors": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "groups": "",
                     "action": "UI Press Value",
                     "isComposite": false,
@@ -2810,9 +2265,6 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-=======
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "UI Press Value",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -2820,7 +2272,6 @@
                 {
                     "name": "",
                     "id": "5c0fa06c-b670-477f-a95d-eb3b4880e439",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "path": "<XRController>{RightHand}/{Primary2DAxis}",
                     "interactions": "",
                     "processors": "ScaleVector2(y=0),StickDeadzone",
@@ -2870,60 +2321,28 @@
                     "processors": "",
                     "groups": "",
                     "action": "Directional Manipulation",
-=======
-                    "path": "<XRController>{RightHand}/Primary2DAxis",
-                    "interactions": "",
-                    "processors": "ScaleVector2(y=0),StickDeadzone",
-                    "groups": "Generic XR Controller",
-                    "action": "Rotate Anchor",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "isComposite": false,
                     "isPartOfComposite": false
                 },
                 {
                     "name": "",
                     "id": "4caf4e8d-13e5-4bd6-8f42-b6b99c315ad0",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "path": "<XRController>{RightHand}/{Primary2DAxis}",
                     "interactions": "",
                     "processors": "ScaleVector2(x=0),StickDeadzone",
                     "groups": "",
                     "action": "Translate Manipulation",
-=======
-                    "path": "<XRController>{RightHand}/Primary2DAxis",
-                    "interactions": "",
-                    "processors": "ScaleVector2(x=0),StickDeadzone",
-                    "groups": "Generic XR Controller",
-                    "action": "Translate Anchor",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
             ]
         },
         {
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
             "name": "XRI Right Locomotion",
             "id": "99ce76d3-82c5-4289-9670-2ecffa6833fd",
             "actions": [
                 {
                     "name": "Teleport Mode",
-=======
-            "name": "XRI RightHand Locomotion",
-            "id": "99ce76d3-82c5-4289-9670-2ecffa6833fd",
-            "actions": [
-                {
-                    "name": "Teleport Select",
-                    "type": "Value",
-                    "id": "02e43582-8973-4940-af06-dff6158e3df2",
-                    "expectedControlType": "Vector2",
-                    "processors": "",
-                    "interactions": "",
-                    "initialStateCheck": true
-                },
-                {
-                    "name": "Teleport Mode Activate",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "type": "Value",
                     "id": "a6c7231d-c55d-4dd4-9e87-877bb5522ef5",
                     "expectedControlType": "Vector2",
@@ -2941,30 +2360,18 @@
                     "initialStateCheck": false
                 },
                 {
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "name": "Turn",
                     "type": "Value",
                     "id": "9fb2eb2b-2fb6-4328-8167-10a1bf11b424",
-=======
-                    "name": "Teleport Direction",
-                    "type": "Value",
-                    "id": "b950a329-6492-4e29-b563-afc726f81e95",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "expectedControlType": "Vector2",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": true
                 },
                 {
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "name": "Snap Turn",
                     "type": "Value",
                     "id": "44441ad6-5762-466d-ad54-aa44fcd61a5c",
-=======
-                    "name": "Turn",
-                    "type": "Value",
-                    "id": "9fb2eb2b-2fb6-4328-8167-10a1bf11b424",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "expectedControlType": "Vector2",
                     "processors": "",
                     "interactions": "",
@@ -2987,66 +2394,27 @@
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
-=======
-                },
-                {
-                    "name": "Snap Turn",
-                    "type": "Value",
-                    "id": "44441ad6-5762-466d-ad54-aa44fcd61a5c",
-                    "expectedControlType": "Vector2",
-                    "processors": "",
-                    "interactions": "",
-                    "initialStateCheck": true
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                 }
             ],
             "bindings": [
                 {
                     "name": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "id": "62690862-4688-4010-975b-b3d9c6062157",
                     "path": "<XRController>{RightHand}/{Primary2DAxis}",
                     "interactions": "Sector(directions=1)",
                     "processors": "",
                     "groups": "",
                     "action": "Teleport Mode",
-=======
-                    "id": "919c4a6c-22ed-4083-8e14-f30e91ff59fe",
-                    "path": "<XRController>{RightHand}/Primary2DAxis",
-                    "interactions": "Sector(directions=-1,sweepBehavior=3)",
-                    "processors": "",
-                    "groups": "Generic XR Controller",
-                    "action": "Teleport Select",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "62690862-4688-4010-975b-b3d9c6062157",
-                    "path": "<XRController>{RightHand}/Primary2DAxis",
-                    "interactions": "Sector(directions=1)",
-                    "processors": "",
-                    "groups": "Generic XR Controller",
-                    "action": "Teleport Mode Activate",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "isComposite": false,
                     "isPartOfComposite": false
                 },
                 {
                     "name": "",
                     "id": "de466e6e-12bf-46a1-b0fd-ffbc343f3399",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "path": "<XRController>{RightHand}/{GripButton}",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-=======
-                    "path": "<XRController>{RightHand}/gripPressed",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Teleport Mode Cancel",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -3054,17 +2422,10 @@
                 {
                     "name": "",
                     "id": "d6c08c3d-3d41-4695-994d-1ac9016a5a9e",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "path": "<XRController>{RightHand}/{Primary2DAxis}",
                     "interactions": "Sector(directions=12,sweepBehavior=1),Sector(directions=2,sweepBehavior=2)",
                     "processors": "",
                     "groups": "",
-=======
-                    "path": "<XRController>{RightHand}/Primary2DAxis",
-                    "interactions": "Sector(directions=12,sweepBehavior=1),Sector(directions=2,sweepBehavior=2)",
-                    "processors": "",
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Turn",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -3072,47 +2433,21 @@
                 {
                     "name": "",
                     "id": "022046aa-be71-4288-859d-6dd42844f6e6",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "path": "<XRController>{RightHand}/{Primary2DAxis}",
                     "interactions": "",
                     "processors": "StickDeadzone",
                     "groups": "",
-=======
-                    "path": "<XRController>{RightHand}/Primary2DAxis",
-                    "interactions": "",
-                    "processors": "StickDeadzone",
-                    "groups": "Continuous Move",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Move",
                     "isComposite": false,
                     "isPartOfComposite": false
                 },
                 {
                     "name": "",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "id": "7ecb549e-ab98-4a4b-b979-38068fe3b811",
                     "path": "<XRController>{RightHand}/{GripButton}",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-=======
-                    "id": "c4b46d7d-8231-4672-83f9-75af565faf57",
-                    "path": "<XRController>{RightHand}/primary2DAxis",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "Noncontinuous Move",
-                    "action": "Teleport Direction",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "7ecb549e-ab98-4a4b-b979-38068fe3b811",
-                    "path": "<XRController>{RightHand}/gripPressed",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Grab Move",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -3120,17 +2455,10 @@
                 {
                     "name": "",
                     "id": "31d838df-4d4e-4c16-a373-b9c07d9d2e2a",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "path": "<XRController>{RightHand}/{Primary2DAxis}",
                     "interactions": "Sector(directions=12,sweepBehavior=1),Sector(directions=2,sweepBehavior=2)",
                     "processors": "",
                     "groups": "",
-=======
-                    "path": "<XRController>{RightHand}/Primary2DAxis",
-                    "interactions": "Sector(directions=12,sweepBehavior=1),Sector(directions=2,sweepBehavior=2)",
-                    "processors": "",
-                    "groups": "Generic XR Controller",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "action": "Snap Turn",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -3240,11 +2568,7 @@
                 {
                     "name": "",
                     "id": "05c1e38e-79dd-41cb-95d5-74f42e65d92f",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "path": "<Touchscreen>/position",
-=======
-                    "path": "<Touchscreen>/touch*/position",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -3596,11 +2920,7 @@
                 {
                     "name": "",
                     "id": "198e6869-709e-448d-96d4-27186c9d56e6",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
                     "path": "<Touchscreen>/Press",
-=======
-                    "path": "<Touchscreen>/touch*/click",
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -3609,7 +2929,6 @@
                     "isPartOfComposite": false
                 }
             ]
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/XRI Default Input Actions.inputactions
         },
         {
             "name": "Touchscreen Gestures",
@@ -3997,68 +3316,4 @@
         }
     ],
     "controlSchemes": []
-=======
-        }
-    ],
-    "controlSchemes": [
-        {
-            "name": "Generic XR Controller",
-            "bindingGroup": "Generic XR Controller",
-            "devices": [
-                {
-                    "devicePath": "<XRController>{LeftHand}",
-                    "isOptional": true,
-                    "isOR": false
-                },
-                {
-                    "devicePath": "<XRController>{RightHand}",
-                    "isOptional": true,
-                    "isOR": false
-                },
-                {
-                    "devicePath": "<XRController>",
-                    "isOptional": true,
-                    "isOR": false
-                },
-                {
-                    "devicePath": "<WMRHMD>",
-                    "isOptional": true,
-                    "isOR": false
-                }
-            ]
-        },
-        {
-            "name": "Continuous Move",
-            "bindingGroup": "Continuous Move",
-            "devices": [
-                {
-                    "devicePath": "<XRController>{LeftHand}",
-                    "isOptional": false,
-                    "isOR": false
-                },
-                {
-                    "devicePath": "<XRController>{RightHand}",
-                    "isOptional": false,
-                    "isOR": false
-                }
-            ]
-        },
-        {
-            "name": "Noncontinuous Move",
-            "bindingGroup": "Noncontinuous Move",
-            "devices": [
-                {
-                    "devicePath": "<XRController>{LeftHand}",
-                    "isOptional": false,
-                    "isOR": false
-                },
-                {
-                    "devicePath": "<XRController>{RightHand}",
-                    "isOptional": false,
-                    "isOR": false
-                }
-            ]
-        }
-    ]
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/XRI Default Input Actions.inputactions
 }

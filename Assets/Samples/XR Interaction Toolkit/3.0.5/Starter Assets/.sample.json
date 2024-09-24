@@ -1,8 +1,4 @@
 {
   "displayName": "Starter Assets",
-<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/.sample.json
   "description": "Assets to streamline setup of behaviors, including a default set of input actions and presets for use with XR Interaction Toolkit behaviors that use the Input System. Also contains a demo scene.\n<i>Dependencies:</i>\n • <a href=\"com.unity3d.kharma:upmpackage/com.unity.shadergraph\">Shader Graph</a>"
-=======
-  "description": "Assets to streamline setup of behaviors, including a default set of input actions and presets for use with XR Interaction Toolkit behaviors that use the Input System."
->>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets/.sample.json
 } 
