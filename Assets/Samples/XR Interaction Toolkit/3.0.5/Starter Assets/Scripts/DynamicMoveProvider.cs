@@ -1,15 +1,14 @@
 using Unity.XR.CoreUtils;
 using UnityEngine.Assertions;
-using UnityEngine.XR.Interaction.Toolkit.Locomotion.Movement;
 
 namespace UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets
 {
     /// <summary>
-    /// A version of continuous movement that automatically controls the frame of reference that
+    /// A version of action-based continuous movement that automatically controls the frame of reference that
     /// determines the forward direction of movement based on user preference for each hand.
     /// For example, can configure to use head relative movement for the left hand and controller relative movement for the right hand.
     /// </summary>
-    public class DynamicMoveProvider : ContinuousMoveProvider
+    public class DynamicMoveProvider : ActionBasedContinuousMoveProvider
     {
         /// <summary>
         /// Defines which transform the XR Origin's movement direction is relative to.
@@ -122,7 +121,7 @@ namespace UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets
             // Initialize the Head Transform if necessary, getting the Camera from XR Origin
             if (m_HeadTransform == null)
             {
-                var xrOrigin = mediator.xrOrigin;
+                var xrOrigin = system.xrOrigin;
                 if (xrOrigin != null)
                 {
                     var xrCamera = xrOrigin.Camera;
@@ -172,8 +171,8 @@ namespace UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets
             }
 
             // Combine the two poses into the forward source based on the magnitude of input
-            var leftHandValue = leftHandMoveInput.ReadValue();
-            var rightHandValue = rightHandMoveInput.ReadValue();
+            var leftHandValue = leftHandMoveAction.action?.ReadValue<Vector2>() ?? Vector2.zero;
+            var rightHandValue = rightHandMoveAction.action?.ReadValue<Vector2>() ?? Vector2.zero;
 
             var totalSqrMagnitude = leftHandValue.sqrMagnitude + rightHandValue.sqrMagnitude;
             var leftHandBlend = 0.5f;

@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets.meta
 guid: 78d5106b5aabff5419836dcf8a7facb2
+=======
+guid: 4a2fdd776fe845a4eb5b1ae424a57599
+>>>>>>> 214437a9ea2646838ac18ddd5ecd34b270de9db3:Assets/Samples/XR Interaction Toolkit/2.3.2/Starter Assets.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
